@@ -16,7 +16,7 @@ class ReaderController: UIViewController, UITableViewDelegate, UITableViewDataSo
     
     
     @IBOutlet weak var tableview: UITableView!
-    
+    /* HI AMRITA */
     var articles: [Article]? = []
     
     override func viewDidLoad() {
